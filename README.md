@@ -1,2 +1,2 @@
-# codsoft_task2
+# codsoft_task3
 WEB DEVELOPEMENT CODSOFT(calculator)
